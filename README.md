@@ -1,4 +1,4 @@
-# React Life cycle 다시 상기 시켜보자!
+# React Life cycle 다시 상기 시켜보자! (22.06.19)
 
 ### 🎈step 1. class형 component life cycle method review ( Completed! )   
 
