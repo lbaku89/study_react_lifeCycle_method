@@ -24,9 +24,9 @@ function App() {
 
   return (
    <>
-    <button onClcik={onClick}>랜덤색상</button>
-    <button onClcik={onToggle}>토글</button>
-    {visible && <LifeCycleSample color={color}/>}
+    <button onClick={onClick}>랜덤색상</button>
+    <button onClick={onToggle}>토글</button>
+    {visible && <LifeCycleSample color={color} />}
    </>
   );
 }
