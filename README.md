@@ -1,6 +1,6 @@
-# React Life cycle 다시 상기 시켜보자
+# React Life cycle 다시 상기💡 시켜보자!
 
-### step 1. class형 component life cycle method review ( now working ... )   
+### step 1. class형 component life cycle method review ( Complete! )   
 
 -참고 자료-  
 https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ ( 공식 문서 )  
