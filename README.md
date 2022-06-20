@@ -7,4 +7,6 @@ https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ ( 공식 문서 )
 https://react.vlpt.us/basic/25-lifecycle.html ( 학습 )  
   
 ### 📌step 2. functional Component hooks review ( now working... )  
-
+  
+-참고 자료-
+https://ko.reactjs.org/docs/hooks-overview.html ( 공식 문서 )
